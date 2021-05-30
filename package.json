@@ -11,10 +11,13 @@
     "url": "git+https://github.com/devcfx/npm-factory.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Viktor",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/devcfx/npm-factory/issues"
   },
-  "homepage": "https://github.com/devcfx/npm-factory#readme"
+  "homepage": "https://github.com/devcfx/npm-factory#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
 }
